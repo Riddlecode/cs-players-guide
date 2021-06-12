@@ -1,0 +1,16 @@
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\bin\Debug\net5.0\cs-players-guide-001.exe
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\bin\Debug\net5.0\cs-players-guide-001.deps.json
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\bin\Debug\net5.0\cs-players-guide-001.runtimeconfig.json
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\bin\Debug\net5.0\cs-players-guide-001.runtimeconfig.dev.json
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\bin\Debug\net5.0\cs-players-guide-001.dll
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\bin\Debug\net5.0\ref\cs-players-guide-001.dll
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\bin\Debug\net5.0\cs-players-guide-001.pdb
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\obj\Debug\net5.0\cs-players-guide-001.csproj.AssemblyReference.cache
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\obj\Debug\net5.0\cs-players-guide-001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\obj\Debug\net5.0\cs-players-guide-001.AssemblyInfoInputs.cache
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\obj\Debug\net5.0\cs-players-guide-001.AssemblyInfo.cs
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\obj\Debug\net5.0\cs-players-guide-001.csproj.CoreCompileInputs.cache
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\obj\Debug\net5.0\cs-players-guide-001.dll
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\obj\Debug\net5.0\ref\cs-players-guide-001.dll
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\obj\Debug\net5.0\cs-players-guide-001.pdb
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cs-players-guide-001\cs-players-guide-001\obj\Debug\net5.0\cs-players-guide-001.genruntimeconfig.cache

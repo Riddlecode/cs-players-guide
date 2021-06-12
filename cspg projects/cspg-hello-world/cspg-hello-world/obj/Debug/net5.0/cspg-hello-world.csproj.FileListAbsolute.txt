@@ -1,0 +1,15 @@
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\bin\Debug\net5.0\cspg-hello-world.exe
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\bin\Debug\net5.0\cspg-hello-world.deps.json
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\bin\Debug\net5.0\cspg-hello-world.runtimeconfig.json
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\bin\Debug\net5.0\cspg-hello-world.runtimeconfig.dev.json
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\bin\Debug\net5.0\cspg-hello-world.dll
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\bin\Debug\net5.0\ref\cspg-hello-world.dll
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\bin\Debug\net5.0\cspg-hello-world.pdb
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\obj\Debug\net5.0\cspg-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\obj\Debug\net5.0\cspg-hello-world.AssemblyInfoInputs.cache
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\obj\Debug\net5.0\cspg-hello-world.AssemblyInfo.cs
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\obj\Debug\net5.0\cspg-hello-world.csproj.CoreCompileInputs.cache
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\obj\Debug\net5.0\cspg-hello-world.dll
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\obj\Debug\net5.0\ref\cspg-hello-world.dll
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\obj\Debug\net5.0\cspg-hello-world.pdb
+C:\Users\Riddl\OneDrive\Desktop\cspg projects\cspg-hello-world\cspg-hello-world\obj\Debug\net5.0\cspg-hello-world.genruntimeconfig.cache
